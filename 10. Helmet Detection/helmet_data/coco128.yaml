@@ -1,0 +1,9 @@
+names:
+- with helmet
+- without helmet
+- rider
+- number plate
+nc: 4
+path: /content/helmet_data
+train: /content/helmet_data/train/images
+val: /content/helmet_data/val/images
